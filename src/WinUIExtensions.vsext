@@ -1,10 +1,13 @@
 {
-  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
-  "version": "1.0.0.0",
+    "id": "WinUIEssentials",
+    "name": "WinUI Essentials",
+    "description": "The easiest way to set up Visual Studio for the ultimate WinUI development experience.",
+    "version": "1.0.0.0",
     "extensions": [
         {
             "vsixId": "Microsoft.WinUI.ProjectTemplates",
-            "name": "WinUI 3 Project Templates"
+            "name": "WinUI 3 Project Templates",
+            "Microsoft.WinUI.ProjectTemplates"
         },
         {
             "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
