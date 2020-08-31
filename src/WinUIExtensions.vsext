@@ -7,7 +7,6 @@
         {
             "vsixId": "Microsoft.WinUI.ProjectTemplates",
             "name": "WinUI 3 Project Templates",
-            "Microsoft.WinUI.ProjectTemplates"
         },
         {
             "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
