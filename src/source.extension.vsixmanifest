@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="WinUIEssentials.48e23162-cc0c-421b-a3ae-6982cb86c7a9" Version="1.0" Language="en-US" Publisher="Matt Lacey" />
+        <DisplayName>WinUI Essentials</DisplayName>
+        <Description xml:space="preserve">The easiest way to set up Visual Studio for the ultimate WinUI development experience.</Description>
+        <MoreInfo>https://github.com/mrlacey/WinUI-Essentials</MoreInfo>
+        <License>resources\LICENSE.txt</License>
+        <ReleaseNotes>https://github.com/mrlacey/WinUI-Essentials/blob/main/CHANGELOG.md</ReleaseNotes>
+        <Icon>resources\icon.png</Icon>
+        <Tags>WinUI</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[16.0,17.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+    </Assets>
+</PackageManifest>

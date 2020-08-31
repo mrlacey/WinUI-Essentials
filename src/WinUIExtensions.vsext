@@ -1,0 +1,18 @@
+{
+  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+  "version": "1.0.0.0",
+    "extensions": [
+        {
+            "vsixId": "Microsoft.WinUI.ProjectTemplates",
+            "name": "WinUI 3 Project Templates"
+        },
+        {
+            "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
+            "name": "XAML Styler"
+        },
+        {
+            "vsixId": "RapidXamlToolkit.0dc8e86a-836b-47e5-aa3f-f5e71c15e37a",
+            "name": "Rapid XAML Toolkit"
+        }
+    ]
+}
