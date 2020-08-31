@@ -5,7 +5,7 @@
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WinUI-Essentials)
 or get the
-[CI build](http://vsixgallery.com/extension/UwpEssentials.4a541df8-8d9e-41fc-8e30-06f67c81588c/)
+[CI build](https://www.vsixgallery.com/extension/WinUIEssentials.48e23162-cc0c-421b-a3ae-6982cb86c7a9)
 
 ------------------------------------
 
