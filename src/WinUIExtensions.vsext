@@ -6,7 +6,7 @@
     "extensions": [
         {
             "vsixId": "Microsoft.WinUI.ProjectTemplates",
-            "name": "WinUI 3 Project Templates",
+            "name": "WinUI 3 Project Templates"
         },
         {
             "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
