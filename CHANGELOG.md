@@ -9,6 +9,10 @@ on the Visual Studio extension gallery.
 
 [Suggest something else](https://github.com/mrlacey/WinUI-Essentials/issues/new).
 
+## 1.1
+
+- [x] Reference the ProjectReunion templates (instead of WinUI3)
+
 ## 1.0
 
 - [x] Initial release
