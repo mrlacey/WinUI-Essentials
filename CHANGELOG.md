@@ -5,9 +5,11 @@ on the Visual Studio extension gallery.
 
 ## Road map
 
-- [ ] Windows Template Studio (once WinUI is supported)
+- [ ] [open to suggestions](https://github.com/mrlacey/WinUI-Essentials/issues/new).
 
-[Suggest something else](https://github.com/mrlacey/WinUI-Essentials/issues/new).
+## 1.2
+
+- [x] Windows Template Studio
 
 ## 1.1
 
