@@ -21,6 +21,7 @@ After installing the WinUI Essentials and restarting Visual Studio, the followin
 - [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 - [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
 - [Windows Template Studio](https://marketplace.visualstudio.com/items?itemName=WASTeamAccount.WindowsTemplateStudio)
+- [Windows App SDK (Experimental)](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunionPreview)
 
 If you already have one or more of these extensions installed, they will not be re-installed.
 

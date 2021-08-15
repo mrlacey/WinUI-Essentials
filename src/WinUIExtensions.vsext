@@ -19,6 +19,10 @@
         {
             "vsixId": "WindowsTemplateStudio2017.ProRelease.60cee341-5e8e-4db5-a1c4-e3f618500d25",
             "name": "Windows Template Studio"
+        },
+        {
+            "vsixId": "Microsoft.ProjectReunion.Preview",
+            "name": "Windows App SDK (Experimental)"
         }
     ]
 }
