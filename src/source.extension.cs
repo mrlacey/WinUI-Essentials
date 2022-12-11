@@ -11,7 +11,7 @@ namespace WinUIEssentials
         public const string Name = "WinUI Essentials";
         public const string Description = @"The easiest way to set up Visual Studio for the ultimate WinUI development experience.";
         public const string Language = "en-US";
-        public const string Version = "1.3.1";
+        public const string Version = "1.4";
         public const string Author = "Matt Lacey";
         public const string Tags = "WinUI";
     }

@@ -7,6 +7,10 @@ on the Visual Studio extension gallery.
 
 - [ ] [open to suggestions](https://github.com/mrlacey/WinUI-Essentials/issues/new).
 
+## 1.4
+
+- [x] Template Studio for WinUI (C#)
+
 ## 1.3
 
 - [x] Windows App SDK (Experimental)

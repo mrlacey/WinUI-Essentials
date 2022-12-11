@@ -3,26 +3,30 @@
     "name": "WinUI Essentials",
     "description": "The easiest way to set up Visual Studio for the ultimate WinUI development experience.",
     "version": "1.2.0.0",
-    "extensions": [
-        {
-            "vsixId": "Microsoft.ProjectReunion",
-            "name": "Project Reunion Templates (includes WinUI 3)"
-        },
-        {
-            "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
-            "name": "XAML Styler"
-        },
-        {
-            "vsixId": "RapidXamlToolkit.0dc8e86a-836b-47e5-aa3f-f5e71c15e37a",
-            "name": "Rapid XAML Toolkit"
-        },
-        {
-            "vsixId": "WindowsTemplateStudio2017.ProRelease.60cee341-5e8e-4db5-a1c4-e3f618500d25",
-            "name": "Windows Template Studio"
-        },
-        {
-            "vsixId": "Microsoft.ProjectReunion.Preview",
-            "name": "Windows App SDK (Experimental)"
-        }
-    ]
+  "extensions": [
+    {
+      "vsixId": "Microsoft.ProjectReunion",
+      "name": "Project Reunion Templates (includes WinUI 3)"
+    },
+    {
+      "vsixId": "0c572937-0d4a-48cc-aa3f-875ffa9805ba",
+      "name": "XAML Styler"
+    },
+    {
+      "vsixId": "RapidXamlToolkit.0dc8e86a-836b-47e5-aa3f-f5e71c15e37a",
+      "name": "Rapid XAML Toolkit"
+    },
+    {
+      "vsixId": "WindowsTemplateStudio2017.ProRelease.60cee341-5e8e-4db5-a1c4-e3f618500d25",
+      "name": "Windows Template Studio"
+    },
+    {
+      "vsixId": "Microsoft.ProjectReunion.Preview",
+      "name": "Windows App SDK (Experimental)"
+    },
+    {
+      "vsixId": "TemplateStudioForWinUICs.843dd154-7a62-4aab-8482-1ce4c73cb580",
+      "name": "Template Studio for WinUI (C#)"
+    }
+  ]
 }
