@@ -17,6 +17,7 @@ See the [change log](CHANGELOG.md) for changes and road map.
 
 After installing the WinUI Essentials and restarting Visual Studio, the following extensions will be installed:
 
+- [Template Studio for WinUI (C#)](https://marketplace.visualstudio.com/items?itemName=TemplateStudio.TemplateStudioForWinUICs)
 - [Project Reunion Templates](https://marketplace.visualstudio.com/items?itemName=ProjectReunion.MicrosoftProjectReunion)
 - [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 - [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
