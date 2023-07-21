@@ -10,6 +10,7 @@ on the Visual Studio extension gallery.
 ## 1.4
 
 - [x] Template Studio for WinUI (C#)
+- [x] Also support targeting VS 2022
 
 ## 1.3
 
