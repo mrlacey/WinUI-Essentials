@@ -56,7 +56,7 @@
   <ItemGroup>
     <Content Include="resources\LICENSE.txt">
       <IncludeInVSIX>true</IncludeInVSIX>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="signvsix.targets" />
     <None Include="source.extension.vsixmanifest">
@@ -87,7 +87,7 @@
   <ItemGroup>
     <Content Include="resources\icon.png">
       <IncludeInVSIX>true</IncludeInVSIX>
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
