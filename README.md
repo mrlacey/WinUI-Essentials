@@ -1,7 +1,9 @@
 # WinUI-Essentials
 
-[![Build status](https://ci.appveyor.com/api/projects/status/y63737bx9ebbmqhj?svg=true)](https://ci.appveyor.com/project/mrlacey/winui-essentials)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
+
+[![Build](https://github.com/mrlacey/WinUI-Essentials/actions/workflows/build.yaml/badge.svg)](https://github.com/mrlacey/WinUI-Essentials/actions/workflows/build.yaml)
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WinUI-Essentials)
 or get the
