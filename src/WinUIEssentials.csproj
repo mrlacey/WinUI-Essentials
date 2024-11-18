@@ -54,6 +54,7 @@
     <Compile Include="WinUIEssentialsPackage.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="filestoadd.txt" />
     <Content Include="resources\LICENSE.txt">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
